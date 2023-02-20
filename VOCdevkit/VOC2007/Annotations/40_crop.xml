@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>40_crop.jpg</filename>
+	<path>D:\&#30740;&#31350;&#29983;\&#20998;&#31867;&#26143;&#20307;\myDataSet\JPEGImages\40.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>star</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>178</ymin>
+			<xmax>118</xmax>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+</annotation>

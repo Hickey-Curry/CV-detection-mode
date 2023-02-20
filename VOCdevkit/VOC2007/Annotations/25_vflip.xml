@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>25_vflip.jpg</filename>
+	<path>D:\&#30740;&#31350;&#29983;\&#20998;&#31867;&#26143;&#20307;\myDataSet\JPEGImages\25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>star</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>250</ymin>
+			<xmax>262</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>
